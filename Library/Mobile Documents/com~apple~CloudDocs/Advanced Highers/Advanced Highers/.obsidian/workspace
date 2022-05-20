@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "088fbf74bd992e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d2656b6b673ed0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3.2 Experimentation.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffc45b90bc0a261d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4beb6f1d6b0542a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7680794334240b9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da3a0831b9222709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253
+  },
+  "right": {
+    "id": "5ba0aafafff89a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "83d5e60ad8233f81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c63c7ddf4b43ec62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.2 Experimentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91d2656b6b673ed0",
+  "lastOpenFiles": [
+    "3.2 Experimentation.md"
+  ]
+}
